@@ -1,7 +1,8 @@
 <h1 align="center">Problem-Solving</h1>
 
 ```text
-This repository contains my solutions to a collection of competitive programming problems, implemented in various programming languages.
+This repository contains my solutions to a collection of competitive programming problems, implemented 
+in various programming languages.
 ```
 
 ## 👨‍💻 Author
