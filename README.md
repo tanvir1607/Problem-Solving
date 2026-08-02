@@ -177,6 +177,16 @@ in various programming languages.
                     J. Primes from 1 to n
                 </a>
             </li>
+            <li>
+                <a href="https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/K">
+                    K. Divisors
+                </a>
+            </li>
+            <li>
+                <a href="https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/L">
+                    L. GCD
+                </a>
+            </li>
         </ul>
     </li>
 </ul>
