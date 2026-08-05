@@ -9,7 +9,7 @@ in various programming languages.
 
 **Tanvir Rahman Anik**
 
-<h2>📂 Repository Structure</h2>
+<h2 align="center">📂 Repository Structure</h2>
 <ul>
 <h2>C</h2>
 <ul>
