@@ -128,6 +128,11 @@ in various programming languages.
             L. GCD
         </a>
     </li>
+    <li>
+        <a href="https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/M">
+            M. Lucky Numbers
+        </a>
+    </li>
 </ul>
 <h2>Python</h2>
 <ul>
