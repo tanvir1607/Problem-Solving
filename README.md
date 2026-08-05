@@ -133,6 +133,11 @@ in various programming languages.
             M. Lucky Numbers
         </a>
     </li>
+    <li>
+        <a href="https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/N">
+            N. Numbers Histogram
+        </a>
+    </li>
 </ul>
 <h2>Python</h2>
 <ul>
