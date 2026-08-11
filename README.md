@@ -142,6 +142,11 @@ in various programming languages.
                 O. Pyramid
             </a>
         </li>
+        <li>
+            <a href="https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/P">
+               P. Shape1
+            </a>
+        </li>
     </ol>
 <h2>Python</h2>
     <ol>
