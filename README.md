@@ -172,6 +172,11 @@ in various programming languages.
                U. Some Sums
             </a>
         </li>
+        <li>
+            <a href="https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/U">
+               V. PUM
+            </a>
+        </li>
     </ol>
 <h2>Python</h2>
     <ol>
