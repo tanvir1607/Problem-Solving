@@ -206,7 +206,7 @@ in various programming languages.
             </a>
         </li>
         <li>
-            <a href="https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/W">
+            <a href="https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/X">
                X. Convert To Decimal 2
             </a>
         </li>
