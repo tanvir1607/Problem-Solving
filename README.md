@@ -152,6 +152,11 @@ in various programming languages.
                Q. Digits
             </a>
         </li>
+        <li>
+            <a href="https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/R">
+               R. Sequence of Numbers and Sum
+            </a>
+        </li>
     </ol>
 <h2>Python</h2>
     <ol>
