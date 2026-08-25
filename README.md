@@ -202,7 +202,7 @@ in various programming languages.
         </li>
         <li>
             <a href="https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/V">
-               V. PUM
+               W. Shape3
             </a>
         </li>
     </ol>
