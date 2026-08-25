@@ -27,7 +27,7 @@ in various programming languages.
   </tr>
 
    <tr>      
-    <td align="center">PYTHon</td>
+    <td align="center">PYThon</td>
     <td align="center">10</td>
   </tr>
 </table>
