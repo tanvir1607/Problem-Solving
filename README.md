@@ -23,7 +23,7 @@ in various programming languages.
 
    <tr>      
     <td align="center">JS</td>
-    <td align="center">23</td>
+    <td align="center">24</td>
   </tr>
 
    <tr>      
