@@ -17,42 +17,18 @@ in various programming languages.
   </tr>
 
   <tr>      
-    <td align="center" rowspan="3"><strong>Code-Forces</strong></td>
-    <td align="center">800</td>
-    <td align="center"><strong>37</strong></td>
-    <td align="center" rowspan="3">42</td>
+    <td align="center">C</td>
+    <td>10</td>
   </tr>
 
-  <tr>      
-    <td align="center">900</td>
-    <td align="center"><strong>03</strong></td>
+   <tr>      
+    <td align="center">JS</td>
+    <td>10</td>
   </tr>
 
-  <tr>
-    <td align="center">1000</td>
-    <td align="center"><strong>02</strong></td>
-  </tr>
-
-  <tr>
-    <td align="center" rowspan="3"><strong>Leet-Code</strong></td>
-    <td align="center">Easy</td>
-    <td align="center"><strong>58</strong></td>
-    <td align="center" rowspan="3">68</td>
-  </tr>
-
-  <tr>
-    <td align="center">Medium</td>
-    <td align="center"><strong>09</strong></td>
-  </tr>
-
-  <tr>
-    <td align="center">Hard</td>
-    <td align="center"><strong>01</strong></td>
-  </tr>
-
-  <tr>
-    <td align="center" colspan="3">Total</td>
-    <td align="center">88</td>
+   <tr>      
+    <td align="center">PYTHON</td>
+    <td>10</td>
   </tr>
 </table>
 
