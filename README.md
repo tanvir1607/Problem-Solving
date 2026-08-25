@@ -173,7 +173,7 @@ in various programming languages.
             </a>
         </li>
         <li>
-            <a href="https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/U">
+            <a href="https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/V">
                V. PUM
             </a>
         </li>
