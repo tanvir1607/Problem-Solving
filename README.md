@@ -18,17 +18,17 @@ in various programming languages.
 
   <tr>      
     <td align="center">C</td>
-    <td>10</td>
+    <td align="center">10</td>
   </tr>
 
    <tr>      
     <td align="center">JS</td>
-    <td>10</td>
+    <td align="center">10</td>
   </tr>
 
    <tr>      
     <td align="center">PYTHON</td>
-    <td>10</td>
+    <td align="center">10</td>
   </tr>
 </table>
 
