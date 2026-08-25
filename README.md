@@ -95,7 +95,7 @@ in various programming languages.
             </a>
         </li>
         <li>
-            <a href="https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/A">
+            <a href="https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/A">
                 A. Summation
             </a>
         </li>
