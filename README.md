@@ -205,6 +205,11 @@ in various programming languages.
                W. Shape3
             </a>
         </li>
+        <li>
+            <a href="https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/W">
+               W. Shape3
+            </a>
+        </li>
     </ol>
 <h2>Python</h2>
     <ol>
