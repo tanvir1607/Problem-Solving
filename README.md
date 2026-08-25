@@ -162,6 +162,11 @@ in various programming languages.
                S. Sum of Consecutive Odd Numbers
             </a>
         </li>
+        <li>
+            <a href="https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/T">
+               T. Shape2
+            </a>
+        </li>
     </ol>
 <h2>Python</h2>
     <ol>
