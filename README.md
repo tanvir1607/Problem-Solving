@@ -95,6 +95,11 @@ in various programming languages.
             </a>
         </li>
         <li>
+            <a href="https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/A">
+                A. Summation
+            </a>
+        </li>
+        <li>
             <a href="https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/B">
                 B. Even Numbers
             </a>
