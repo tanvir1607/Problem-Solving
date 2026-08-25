@@ -167,6 +167,11 @@ in various programming languages.
                T. Shape2
             </a>
         </li>
+        <li>
+            <a href="https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/U">
+               U. Some Sums
+            </a>
+        </li>
     </ol>
 <h2>Python</h2>
     <ol>
